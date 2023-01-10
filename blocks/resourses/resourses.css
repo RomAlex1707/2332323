@@ -1,0 +1,13 @@
+@import url(../page/page.css);
+@import url(../section-title/section-title.css);
+@import url(../section-subtitle/section-subtitle.css);
+@import url(./__logo-zone/resources__logo-zone.css);
+@import url(./__link/resourses__link.css);
+@import url(./__link/_logo/resourses__link_logo_arzamas.css);
+@import url(./__link/_logo/resourses__link_logo_n1.css);
+@import url(./__link/_logo/resourses__link_logo_polka.css);
+@import url(./__link/_logo/resourses__link_logo_strelka.css);
+
+.resources {
+    margin-top: 100px;
+}
